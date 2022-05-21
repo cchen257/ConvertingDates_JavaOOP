@@ -1,2 +1,2 @@
 # Project 1:
-Using classes to sort and convert an input file of array of dates in a GUI
+Using classes to sort and convert an array of dates and display them in a GUI
